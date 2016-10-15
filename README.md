@@ -14,7 +14,7 @@ inspired by the PDP-8 Computer, font: SF Mono
 ![PDP-8](img/PDP-8.png)
 
 ## Solar Dark
-font SF Mono
+font: SF Mono
 ![Solar Dark](img/solar-dark.png)
 
 ## Terminal
