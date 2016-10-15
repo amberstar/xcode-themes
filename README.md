@@ -11,6 +11,7 @@ Add the theme files to the `~/Library/Developer/Xcode/UserData/FontAndColorTheme
 
 ## PDP-8
 Font: SF Mono
+
 inspired by the PDP-8 Computer
 ![PDP-8](img/PDP-8.png)
 
@@ -20,11 +21,13 @@ Font SF Mono
 
 ## Terminal
 Font: Terminus
+
 inspired by jellybeans.vim
 ![Terminal](img/terminal.png)
 
 ## Terminal Sun
 Fonts: Terminus, Operator
+
 modified Xcode Sunset
 ![Terminal Sun](img/terminal-sun.png)
 
@@ -34,5 +37,6 @@ Font: Terminus
 
 ## Terminal Sublime
 Font: Terminus
+
 inspired by Sublime
 ![Terminal Sublime](img/terminal-sublime.png)
