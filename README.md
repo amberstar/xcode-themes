@@ -9,20 +9,30 @@ Add the theme files to the `~/Library/Developer/Xcode/UserData/FontAndColorTheme
 - [Terminus](http://terminus-font.sourceforge.net/)
 
 
-## PDP-8 (inspired by the PDP-8 Computer)
+## PDP-8
+Font: SF Mono
+inspired by the PDP-8 Computer
 ![PDP-8](img/PDP-8.png)
 
 ## Solar Dark
+Font SF Mono
 ![Solar Dark](img/solar-dark.png)
 
-## Terminal (inspired by jellybeans.vim)
+## Terminal
+Font: Terminus
+inspired by jellybeans.vim
 ![Terminal](img/terminal.png)
 
-## Terminal Sun (modified Xcode Sunset)
+## Terminal Sun
+Fonts: Terminus, Operator
+modified Xcode Sunset
 ![Terminal Sun](img/terminal-sun.png)
 
 ## Terminal Blue
+Font: Terminus
 ![Terminal Blue](img/terminal-blue.png)
 
-## Terminal Sublime (inspired by Sublime)
+## Terminal Sublime
+Font: Terminus
+inspired by Sublime
 ![Terminal Sublime](img/terminal-sublime.png)
