@@ -30,5 +30,5 @@ font: Terminus
 ![Terminal Blue](img/terminal-blue.png)
 
 ## Terminal Sublime
-inspired by Sublime, font: Terminus
+inspired by Sublime, font: Terminus, Operator
 ![Terminal Sublime](img/terminal-sublime.png)
